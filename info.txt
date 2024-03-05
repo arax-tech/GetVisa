@@ -1,0 +1,45 @@
+https://getvisa.golbeno.ee/
+
+admin@gmail.com
+12345678
+
+
+DB_DATABASE=ctechedu_get_visa
+DB_USERNAME=getvisa_root
+DB_PASSWORD=getvisa_password
+
+
+
+
+
+I'd - chechedu
+Pass - Moga@142001
+Domain - travocool.com
+
+
+Cpanel login
+https://www.namecheap.com/
+ctechedu
+Moga@142001
+
+Admin 
+Category 
+Country
+Name
+Price
+
+User Side
+Country Wo Show karni hain jin ka visa req add kia hy admin ny
+
+Visa 
+Show all Visa  req
+
+
+
+
+
+Counrty Filter in Visa Page
+Packge Detail Page
+
+Tabs in Visa Req Detail Page
+ desitnnation replce karny country sy
